@@ -1,0 +1,5 @@
+C:\Users\enes.akinci\source\repos\Article\Article.Business\bin\Debug\netcoreapp3.1\Article.Business.deps.json
+C:\Users\enes.akinci\source\repos\Article\Article.Business\bin\Debug\netcoreapp3.1\Article.Business.dll
+C:\Users\enes.akinci\source\repos\Article\Article.Business\obj\Debug\netcoreapp3.1\Article.Business.csprojAssemblyReference.cache
+C:\Users\enes.akinci\source\repos\Article\Article.Business\obj\Debug\netcoreapp3.1\Article.Business.AssemblyInfoInputs.cache
+C:\Users\enes.akinci\source\repos\Article\Article.Business\obj\Debug\netcoreapp3.1\Article.Business.AssemblyInfo.cs

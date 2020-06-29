@@ -1,0 +1,12 @@
+C:\Users\enes.akinci\source\repos\Article\Article.Business\bin\Debug\netcoreapp3.0\Article.Business.deps.json
+C:\Users\enes.akinci\source\repos\Article\Article.Business\bin\Debug\netcoreapp3.0\Article.Business.dll
+C:\Users\enes.akinci\source\repos\Article\Article.Business\bin\Debug\netcoreapp3.0\Article.Data.dll
+C:\Users\enes.akinci\source\repos\Article\Article.Business\bin\Debug\netcoreapp3.0\Article.Data.pdb
+C:\Users\enes.akinci\source\repos\Article\Article.Business\obj\Debug\netcoreapp3.0\Article.Business.AssemblyInfoInputs.cache
+C:\Users\enes.akinci\source\repos\Article\Article.Business\obj\Debug\netcoreapp3.0\Article.Business.AssemblyInfo.cs
+C:\Users\enes.akinci\source\repos\Article\Article.Business\obj\Debug\netcoreapp3.0\Article.Business.csproj.CopyComplete
+C:\Users\enes.akinci\source\repos\Article\Article.Business\bin\Debug\netcoreapp3.0\Article.Business.pdb
+C:\Users\enes.akinci\source\repos\Article\Article.Business\obj\Debug\netcoreapp3.0\Article.Business.csprojAssemblyReference.cache
+C:\Users\enes.akinci\source\repos\Article\Article.Business\obj\Debug\netcoreapp3.0\Article.Business.dll
+C:\Users\enes.akinci\source\repos\Article\Article.Business\obj\Debug\netcoreapp3.0\Article.Business.pdb
+C:\Users\enes.akinci\source\repos\Article\Article.Business\obj\Debug\netcoreapp3.0\Article.Business.csproj.CoreCompileInputs.cache

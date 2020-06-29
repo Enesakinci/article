@@ -1,0 +1,12 @@
+C:\Users\enes.akinci\source\repos\Article\Article.Data\bin\Debug\netcoreapp3.0\Article.Data.deps.json
+C:\Users\enes.akinci\source\repos\Article\Article.Data\bin\Debug\netcoreapp3.0\Article.Data.dll
+C:\Users\enes.akinci\source\repos\Article\Article.Data\obj\Debug\netcoreapp3.0\Article.Data.AssemblyInfoInputs.cache
+C:\Users\enes.akinci\source\repos\Article\Article.Data\obj\Debug\netcoreapp3.0\Article.Data.AssemblyInfo.cs
+C:\Users\enes.akinci\source\repos\Article\Article.Data\bin\Debug\netcoreapp3.0\Article.Data.runtimeconfig.json
+C:\Users\enes.akinci\source\repos\Article\Article.Data\bin\Debug\netcoreapp3.0\Article.Data.runtimeconfig.dev.json
+C:\Users\enes.akinci\source\repos\Article\Article.Data\obj\Debug\netcoreapp3.0\Article.Data.genruntimeconfig.cache
+C:\Users\enes.akinci\source\repos\Article\Article.Data\bin\Debug\netcoreapp3.0\Article.Data.pdb
+C:\Users\enes.akinci\source\repos\Article\Article.Data\obj\Debug\netcoreapp3.0\Article.Data.dll
+C:\Users\enes.akinci\source\repos\Article\Article.Data\obj\Debug\netcoreapp3.0\Article.Data.pdb
+C:\Users\enes.akinci\source\repos\Article\Article.Data\obj\Debug\netcoreapp3.0\Article.Data.csproj.CoreCompileInputs.cache
+C:\Users\enes.akinci\source\repos\Article\Article.Data\obj\Debug\netcoreapp3.0\Article.Data.csprojAssemblyReference.cache
