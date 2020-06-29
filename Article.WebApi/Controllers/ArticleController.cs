@@ -1,5 +1,6 @@
 ﻿using Article.Business.Repository.Abstract;
 using Article.Data.ViewModel;
+using Article.Data.ViewModel.Dtos;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Threading.Tasks;
@@ -59,14 +60,14 @@ namespace Article.WebApi.Controllers
             }
         }
         [HttpPost("UpdateArticle")]
-        public async Task<IActionResult> UpdateArticle([FromBody] ViewModelArticle form)
+        public async Task<IActionResult> UpdateArticle([FromBody] ArticleUpdateDto form)
         {
             try
             {
-                bool retval = _uow.Article.AddArticle(form);
+                bool retval = _uow.Article.UpdateArticle(form);
                 if (retval == true)
-                    return Json("Article is added");
-                return Json("Article is not added");
+                    return Json("Article is updated");
+                return Json("Article is not updated");
             }
             catch (Exception e)
             {
